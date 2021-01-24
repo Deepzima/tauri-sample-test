@@ -1,0 +1,11 @@
+{
+  "name": "tauri-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Deepzima/tauri-sample-test.git",
+  "author": "Deepzima <aspha9@outlook.it>",
+  "license": "MIT",
+  "dependencies": {
+    "tauri": "^0.14.0"
+  }
+}
